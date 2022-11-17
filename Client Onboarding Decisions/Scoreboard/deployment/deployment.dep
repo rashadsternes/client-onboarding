@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="cp4admin.client_onboarding.client_onboarding_decisions:scoreboard" ruleAppVersion="LATEST-SNAPSHOT" packageName="decisions.client_onboarding.client_onboarding_decisions.scoreboard2" managingXom="true">
+<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="cp4admin.cov3.client_onboarding_decisions:scoreboard" ruleAppVersion="LATEST-SNAPSHOT" packageName="decisions.client_onboarding.client_onboarding_decisions.scoreboard2" managingXom="true">
   <name>scoreboard</name>
   <uuid>9a7ee9ea-c15b-458a-93ec-71bac3b1ec55</uuid>
   <locales>en_US</locales>

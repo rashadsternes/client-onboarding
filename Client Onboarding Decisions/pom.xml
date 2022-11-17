@@ -2,7 +2,7 @@
         
     <modelVersion>4.0.0</modelVersion>
         
-    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
         
     <artifactId>clientOnboardingDecisions</artifactId>
         

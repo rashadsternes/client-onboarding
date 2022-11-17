@@ -4,7 +4,7 @@
         
     <parent>
                 
-        <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+        <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                 
         <artifactId>clientOnboardingDecisions</artifactId>
                 
@@ -12,7 +12,7 @@
             
     </parent>
         
-    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
         
     <artifactId>scoreboard</artifactId>
         
@@ -68,12 +68,12 @@
     
     <dependencies>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>data</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>machineLearningScoreboard</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>

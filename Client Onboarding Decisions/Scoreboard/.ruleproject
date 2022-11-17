@@ -8,8 +8,8 @@
     <entries xsi:type="ilog.rules.studio.model.xom:LibraryXOMPathEntry" name="org.eclipse.jdt.launching.JRE_CONTAINER" url="file:org.eclipse.jdt.launching.JRE_CONTAINER" kind="LIBRARY"/>
   </paths>
   <paths xsi:type="ilog.rules.studio.model.bom:BOMPath" pathID="BOM">
-    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="cp4admin.client_onboarding.client_onboarding_decisions:data#LATEST-SNAPSHOT" packageId="cp4admin.client_onboarding.client_onboarding_decisions:data" version="LATEST-SNAPSHOT"/>
-    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="cp4admin.client_onboarding.client_onboarding_decisions:machineLearningScoreboard#LATEST-SNAPSHOT" packageId="cp4admin.client_onboarding.client_onboarding_decisions:machineLearningScoreboard" version="LATEST-SNAPSHOT"/>
+    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="cp4admin.cov3.client_onboarding_decisions:data#LATEST-SNAPSHOT" packageId="cp4admin.cov3.client_onboarding_decisions:data" version="LATEST-SNAPSHOT"/>
+    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="cp4admin.cov3.client_onboarding_decisions:machineLearningScoreboard#LATEST-SNAPSHOT" packageId="cp4admin.cov3.client_onboarding_decisions:machineLearningScoreboard" version="LATEST-SNAPSHOT"/>
   </paths>
   <modelFolders xsi:type="ilog.rules.studio.model.base:SourceFolder">
     <name>rules</name>

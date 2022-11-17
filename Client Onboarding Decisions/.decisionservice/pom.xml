@@ -7,7 +7,7 @@
     <parent>
                         
         
-        <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+        <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                         
         
         <artifactId>clientOnboardingDecisions</artifactId>
@@ -27,27 +27,27 @@
     
     <dependencies>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>data</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>feeAndServices</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>machineLearningScoreboard</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>scoreboard</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
         <dependency>
-            <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+            <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
             <artifactId>servicesSubset</artifactId>
             <version>LATEST-SNAPSHOT</version>
         </dependency>
@@ -221,6 +221,7 @@
 
 
 
+
 <build>
         <resources>
             <resource>
@@ -246,7 +247,7 @@
                         <configuration>
                             <artifactItems>
                                 <artifactItem>
-                                    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+                                    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                                     <artifactId>data</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -255,7 +256,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+                                    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                                     <artifactId>feeAndServices</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -264,7 +265,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+                                    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                                     <artifactId>machineLearningScoreboard</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -273,7 +274,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+                                    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                                     <artifactId>scoreboard</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
@@ -282,7 +283,7 @@
                                     <outputDirectory>${project.build.directory}/classes</outputDirectory>
                                 </artifactItem>
                                 <artifactItem>
-                                    <groupId>cp4admin.client_onboarding.client_onboarding_decisions</groupId>
+                                    <groupId>cp4admin.cov3.client_onboarding_decisions</groupId>
                                     <artifactId>servicesSubset</artifactId>
                                     <version>LATEST-SNAPSHOT</version>
                                     <type>jar</type>
